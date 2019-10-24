@@ -12,9 +12,9 @@
 ![Deepscan Screenshot](./assets/screenshot.png)
 
 
-## Test with Coverity
+## Test with JShint
 
 ### Kết quả:
 	- Hiện lên list bug và warning
 
-![Deepscan Screenshot](./assets/Capture.png)
+![JShint Screenshot](./assets/Capture.png)
