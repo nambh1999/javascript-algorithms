@@ -17,4 +17,4 @@
 ### Kết quả:
 	- Hiện lên list bug và warning
 
-![JShint Screenshot](./assets/Capture.png)
+![JShint Screenshot](./assets/Capture.PNG)
