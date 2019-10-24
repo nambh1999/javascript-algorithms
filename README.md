@@ -3,7 +3,7 @@
 
 ## Test with Deepscan
 
-### Kết quả:  ( Found 335 bug items in 306 classes )
+### Kết quả:
     - Grade: Good
     - Issues: 2
     - Lines of Code : 12,353
