@@ -13,3 +13,8 @@
 
 
 ## Test with Coverity
+
+### Kết quả:
+	- Hiện lên list bug và warning
+
+![Deepscan Screenshot](./assets/Capture.png)
